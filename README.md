@@ -1,9 +1,13 @@
-## git Branching
+## Git Branching
 
-## basic git commands
+## Basic Git Commands
 
-* 'git init' - create local repo
-* 'git add' - add files
-* 'git commit' - commit to local
+* 'git init' - Create local repo
+* 'git add' - Add files
+* 'git commit' - Commit to local
 * 'git status' - See status of local repo
 * 'git log' - View commit log
+
+## Basic Branching
+
+* 'git branch' - Show branches, current branch
