@@ -1,6 +1,7 @@
 ## Git Branching
 Cheat sheet for git and git branching
 
+
 ## Basic Git Commands
 
 * 'git init' - Create local repo
@@ -20,6 +21,7 @@ Cheat sheet for git and git branching
 * 'git branch newBranch' - Create branch
 * 'git checkout branchName' - Checkout branch
 * 'git checkout -b otherBranch' - Checkout and create other
+
 * 'git pull origin otherBranch' - pull remote otherBranch
 * 'git pull origin master' - pull remote master into local branch to resolve conflicts'
 * 'git push origin other branch' - Pull local branch to GitHub; got to GitHub and create pull request
