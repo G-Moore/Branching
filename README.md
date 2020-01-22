@@ -18,3 +18,4 @@
 * 'git branch' - Show branches, current branch
 * 'git branch newBranch' - Create branch
 * 'git checkout branchName' - Checkout branch
+* 'git checkout -b otherBranch' - Checkout and create other
